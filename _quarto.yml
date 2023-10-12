@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Xiaomin Lu"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - pub.qmd
+      - award.qmd
+
+format:
+  html:
+    theme: solar
+    css: styles.css
+    page-layout: full
+    toc: true
+
+editor: visual
+

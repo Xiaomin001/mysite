@@ -1,0 +1,69 @@
+---
+title: "Xiaomin Lu"
+image: snapshot.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 10em
+  links:
+    - text: Gitlab
+      href: https://gitlab.com/PrincessMoon
+    - text: Email
+      href: mailto:xiaomin.lu@uconn.edu
+---
+Hello, I'm Xiaomin Lu
+
+# Education
++ **University of Connecticut**, Aug. 2021-present  
+  *Ph.D. in Statistics*
++ **North Carolina State University**, May 2021  
+  *M.S. in Statistics*
++ **North Carolina State University**, Dec. 2016  
+  *Ph.D. in Forest Biomaterials*
++ **Åbo Akademi University**, Jun. 2011  
+  *M.S. in Chemical Engineering*
+  
+  
+# Position and Employment
++ **University of Connecticut**, Aug., 2022-present  
+  *Graduate research assistant*, Storrs, CT
++ **University of Connecticut**, Aug, 2021-May 2022  
+  *Graduate research assistant*, Storrs, CT
++ **NC State University**, Jun., 2017-May 2021  
+  *Graduate research assistant*, Raleigh, NC
++ **Schaeffler/Luk USA LLC**, Sep., 2016-May 2017  
+  *Chemist Intern*, Wooster, OH
++ **NC State University**, Jan., 2013-Jul. 2016  
+  *Graduate research assistant*, Raleigh, NC
++ **Aalto University**, Jan. 2012-Dec. 2012  
+  *Researcher*, Espoo, Finland
++ **Åbo Akademi University**, Oct. 2010-Nov, 2011  
+  *Graduate research assistant*, Turku, Finland
+
+
+# Skills
+## Computational skills
++ Data processing tool: R, SAS, Julia, Python, JMP, SQL, Origin
++ Editorial tool: LaTeX, Markdown, VS code, WordPress, OJS
++ Microsoft office package: Power BI, Word, Excel, Power, Outlook
++ Image tool: Photoshop, ChenDraw
+
+## Analytical techniques
++ Spectroscopy: UV-Vis, FT-IR
++ Chromatography: GPC, HPLC, GC-MS, IC
++ Thermal analysis: TGA, DSC, DMA
++ Microscopy: SEM, AFM, TEM, Optical Microscopy
++ X-ray: WAXD, SAXS
++ Viscosity: Rheometer
++ Paper and water properties analysis
+
+
+
+
+
+
+
+
+
+
+  

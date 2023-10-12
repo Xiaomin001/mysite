@@ -1,0 +1,88 @@
+---
+title: "Publications"
+---
+
++ Xiaorui Lv, Jianlou Mu, Wenxiu Wang, Yaqiong Liu, **_Xiaomin Lu_**, Jianfeng Sun,Qianyun Ma, Jie Wang
+(2022). “Influence and mechanism of natural phenolic acids/fatty acids on purple sweet potato anthocyanins
+color intensification.” Current Research in Food Science, 5, 1243-1250.
+
+
++ Xiaorui Lv, Liling Li, **_Xiaomin Lu_**, Wenxiu Wang, Jianfeng Sun, Yaqiong Liu, Jianlou Mu, Qianyun Ma,
+Jie Wang (2022). “Effects of organic acids on color intensification, thermodynamics and copigmentation
+interactions with anthocyanins.” Food Chemistry, 396, 133691.
+
+
++ Pengfei Lv, **_Xiaomin Lu_**, Ling Wang, Wei Feng (2021). “Nanocellulose-based functional
+materials: from chiral photonics to robotics and energy.” Advanced Functional Materials, 31(45), 2104991.
+
+
++ Lihua Zang, Chengxuan Zhou, Liming Dong, Leilei Wang, Jiaming Mao, **_Xiaomin Lu_**, Rong Xue,
+Yunqian Ma (2021). “One-pot synthesis of Nano CuO-ZnO modified hydrochar derived from chitosan and starch, using in $H_2S$ conversion.” Catalysts, 11(7), 767.
+
+
++ Qianyun Ma, **_Xiaomin Lu_**, Wenxiu Wang, Martin A. Hubbe, Yaqiong Liu, Jianlou Mu, Jie Wang,
+Jianfeng Sun, Orlando J. Rojas (2021). “Recent developments in colorimetric and optical indicators
+stimulated by volatile base nitrogen to monitor seafood freshness.” Food Packaging and Shelf Life, 28, 100634.
+
+
++ Xiaoyan Wang, Fanghui Hu, **_Xiaomin Lu_**, Xinyu Zhang, Peipei Wang, Jing Tian, Junlong Song,
+Yongcan Jin, Huining Xiao (2021). “Impact of degree of substitution of cationic xylan on strength
+of cellulose fiber networks along with medium conductivity.” Industrial Crops and Products, 159, 113058.
+
+
++ Zhengdong Shen, Haiying Wang, Qian Yu, Qiang Li, **_Xiaomin Lu_**, Xianming Kong (2021). “On-
+site separation and identification of polycyclic aromatic hydrocarbons from edible oil by TLC-SERS on diatomite photonic biosilica plate.” Microchemical Journal, 160, 105672.
+
+
++ Jingdong Feng, Xinyi Wang, Zihao Lv, Jiangang Qu, **_Xiaomin Lu_**, Qufu Wei, Qingqing Wang
+(2020). “Multifunctional Wearable Strain Sensor Made with an Elastic Interwoven Fabric for Patients with Motor Dysfunction.” Advanced Materials Technologies, 5 (11), 2000560.
+
+
++ **_Xiaomin Lu_**, Anna Sundberg, Anders Strand, Martin A Hubbe (2020). “Effects of metal ions and
+wood pitch on retention and physical properties of TMP.” Nordic Pulp &amp; Paper Research Journal 35(4).
+
+
++ Xiaohang Sun, Zijun Sun, Yanbin Xin, Bing Sun, **_Xiaomin Lu_** (2020). “Plasma-catalyzed
+Liquefaction of Wood-based Biomass.” BioResources, 15(3), 6095-6109
+
+
++ Tian Liu, Yu Zhang, **_Xiaomin Lu_**, Peipei Wang, Xinyu Zhang, Jing Tian, Qingcheng Wang,
+Junlong Song, Yongcan Jin, Huining Xiao (2020). “Binding Affinity of Family 4 Carbohydrate
+Binding Module on Cellulose Films of Nanocrystals and Nanofibrils.” Carbohydrate Polymers,
+251, 116725
+
+
++ Martin A Hubbe, Douglas S McLean, Karen R Stack, **_Xiaomin Lu_**, Anders Strand, Anna Sundberg
+(2020). "Self-assembly of Alkyl Chains of Fatty Acids in Papermaking Systems: A Review of
+Related Pitch Issues, Hydrophobic Sizing, and pH Effects." BioResources, 15(2), 4591-4635.
+
+
++ Wenqian Lin, Sheng Xing, Yongcan Jin, **_Xiaomin Lu_**, Caoxing Huang, Qiang Yong (2020).
+“Insight into understanding the performance of deep eutectic solvent pretreatment on improving
+enzymatic digestibility of bamboo residues.” Bioresource Technology, 306, 123163.
+
+
++ Pengfei Lv, **_Xiaomin Lu_**, Huimin Zhou, Xiaohang Sun (2020). "Biosynthesis of Bacterial
+Cellulose for in-situ Assembly of Intelligent Packaging with Natural Dyes." BioResources, 15(2), 
+2111-2113.
+
+
++ Qianyun Ma, **_Xiaomin Lu_**, Zhizhou Chen (2019). "Could Aerogels from Lignin-containing Forest
+Materials be used for Cushioning in Packaging Systems?" BioResources, 15 (1), 3-5.
+
+
++ Huimin Zhou, Pengfei Lv, **_Xiaomin Lu_**, Xuebin Hou, Min Zhao, Jieyu Huang, Xin Xia, Qufu Wei
+(2019). "Fibrous Network of C@MoS2 Nanocapsule-Decorated Cotton Linters Interconnected by
+Bacterial Cellulose for Lithium- and Sodium-Ion Batteries." ChemSusChem, 12(23), 5075-5080.
+
+
++ **_Xiaomin Lu_** (2019). "Cellulose Nanocrystals for Wrinkled Fabric." BioResources, 14 (4), 7632-7635.
+
++ Dezhan Ye, Shuai Li, **_Xiaomin Lu_**, Xi Zhang, Orlando J Rojas (2016). "Antioxidant and Thermal
+Stabilization of Polypropylene by Addition of Butylated Lignin at Low Loadings." ACS
+Sustainable Chemistry &amp; Engineering, 4 (10), 5248-5257.
+
+
++ Ana Ferrer, Ingrid C Hoeger, **_Xiaomin Lu_**, Orlando J Rojas (2016). "Reinforcement of
+polypropylene with lignocellulose nanofibrils and compatibilization with biobased polymers."
+Journal of Applied Polymer Science, 133(34), 43854-43863.
