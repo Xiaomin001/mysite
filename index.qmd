@@ -11,68 +11,63 @@ about:
     - text: Email
       href: mailto:xiaomin.lu@uconn.edu
 ---
+
 Hello, I'm Xiaomin Lu.
 
 # Education
-+ **University of Connecticut**, August 2021-present  
-  *Ph.D. in Statistics*
-+ **North Carolina State University**, May 2021  
-  *M.S. in Statistics*
-+ **North Carolina State University**, December 2016  
-  *Ph.D. in Forest Biomaterials*
-+ **Åbo Akademi University**, June 2011  
-  *M.S. in Chemical Engineering*
-  
-  
-# Position and Employment
-+ **UConn Health**, September, 2023-present   
-  *Graduate research assistant*, Farmington, CT
-+ **University of Connecticut**, August, 2023-present    
-  *Graduate teaching assistant*, Storrs, CT
-+ **University of Connecticut**, August, 2022-August, 2023     
-  *Graduate research assistant*, Storrs, CT
-+ **University of Connecticut**, August, 2021-May 2022  
-  *Graduate research assistant*, Storrs, CT
-+ **NC State University**, June, 2017-May 2021  
-  *Graduate research assistant*, Raleigh, NC
-+ **Schaeffler/Luk USA LLC**, September, 2016-May 2017  
-  *Chemist Intern*, Wooster, OH
-+ **NC State University**, January, 2013-July 2016  
-  *Graduate research assistant*, Raleigh, NC
-+ **Aalto University**, January, 2012-December, 2012  
-  *Researcher*, Espoo, Finland
-+ **Åbo Akademi University**, October 2010-November 2011  
-  *Graduate research assistant*, Turku, Finland
 
+-   **University of Connecticut**, August 2021-present\
+    *Ph.D. in Statistics*
+-   **North Carolina State University**, May 2021\
+    *M.S. in Statistics*
+-   **North Carolina State University**, December 2016\
+    *Ph.D. in Forest Biomaterials*
+-   **Åbo Akademi University**, June 2011\
+    *M.S. in Chemical Engineering*
+
+# Position and Employment
+
+-   **UConn Health**, September, 2023-present\
+    *Graduate research assistant*, Farmington, CT
+-   **University of Connecticut**, August, 2023-present\
+    *Graduate teaching assistant*, Storrs, CT
+-   **University of Connecticut**, August, 2022-August, 2023\
+    *Graduate research assistant*, Storrs, CT
+-   **University of Connecticut**, August, 2021-May 2022\
+    *Graduate research assistant*, Storrs, CT
+-   **NC State University**, June, 2017-May 2021\
+    *Graduate research assistant*, Raleigh, NC
+-   **Schaeffler/Luk USA LLC**, September, 2016-May 2017\
+    *Chemist Intern*, Wooster, OH
+-   **NC State University**, January, 2013-July 2016\
+    *Graduate research assistant*, Raleigh, NC
+-   **Aalto University**, January, 2012-December, 2012\
+    *Researcher*, Espoo, Finland
+-   **Åbo Akademi University**, October 2010-November 2011\
+    *Graduate research assistant*, Turku, Finland
 
 # Skills
+
 ## Computational skills
-+ Data processing tool: R, SAS, Julia, Python, JMP, SQL
-+ Editorial tool: LaTeX, Markdown, VS code, WordPress, OJS
-+ Microsoft office package: Power BI, Word, Excel, Power, Outlook
-+ Image tool: Photoshop, ChenDraw
+
+-   Data processing tool: R, SAS, Julia, Python, JMP, SQL
+-   Editorial tool: LaTeX, Markdown, VS code, WordPress, OJS
+-   Microsoft office package: Power BI, Word, Excel, Power, Outlook
+-   Image tool: Photoshop, ChenDraw
 
 ## Analytical techniques
-+ Spectroscopy: UV-Vis, FT-IR
-+ Chromatography: GPC, HPLC, GC-MS, IC
-+ Thermal analysis: TGA, DSC, DMA
-+ Microscopy: SEM, AFM, TEM, Optical Microscopy
-+ X-ray: WAXD, SAXS
-+ Viscosity: Rheometer
-+ Paper and water properties analysis
+
+-   Spectroscopy: UV-Vis, FT-IR
+-   Chromatography: GPC, HPLC, GC-MS, IC
+-   Thermal analysis: TGA, DSC, DMA
+-   Microscopy: SEM, AFM, TEM, Optical Microscopy
+-   X-ray: WAXD, SAXS
+-   Viscosity: Rheometer
+-   Paper and water properties analysis
 
 # Teaching
-+ STAT 1100Q-021D   
-  *Elementary Concepts of Statistics*, Fall 2023
-+ STAT 3375Q-004D   
-  *Introduction to Mathematical Statistics*, Fall 2023
 
-
-
-
-
-
-
-
-
-  
+-   STAT 1100Q-021D\
+    *Elementary Concepts of Statistics*, Fall 2023
+-   STAT 3375Q-004D\
+    *Introduction to Mathematical Statistics*, Fall 2023
