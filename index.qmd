@@ -6,7 +6,7 @@ about:
   image-shape: round
   image-width: 10em
   links:
-    - text: Linkedin
+    - text: LinkedIn
       href: https://www.linkedin.com/in/xiaomin-lu-562146228/
     - text: Gitlab
       href: https://gitlab.com/PrincessMoon
@@ -15,7 +15,8 @@ about:
 ---
 
 **Hello!**\
-I'm Xiaomin Lu. Thank you for stopping by my website! I'm a third year PhD student studying Statistics at the University of Connecticut. My research interests primarily involve survival analysis, statistical computing and causal inference. Besides, I'm also interested in learning emerging technologies.
+I'm Xiaomin Lu. Thank you for stopping by my website!\
+I'm a third year PhD student studying Statistics at the University of Connecticut. My research interests primarily involve survival analysis, statistical computing and causal inference. Besides, I'm also interested in learning emerging technologies.
 
 # Education
 
