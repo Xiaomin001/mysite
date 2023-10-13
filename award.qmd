@@ -1,6 +1,32 @@
 ---
-title: "Honors"
+title: "Skills and Honors"
 ---
+
+# Skills
+
+## Computational skills
+
+-   Data processing tool: R, SAS, Julia, Python, JMP, SQL
+-   Editorial tool: LaTeX, Markdown, VS code, WordPress, OJS
+-   Microsoft office package: Power BI, Word, Excel, Power, Outlook
+-   Image tool: Photoshop, ChenDraw
+
+## Analytical techniques
+
+-   Spectroscopy: UV-Vis, FT-IR
+-   Chromatography: GPC, HPLC, GC-MS, IC
+-   Thermal analysis: TGA, DSC, DMA
+-   Microscopy: SEM, AFM, TEM, Optical Microscopy
+-   X-ray: WAXD, SAXS
+-   Viscosity: Rheometer
+-   Paper and water properties analysis
+
+# Teaching
+
+-   STAT 1100Q-021D\
+    *Elementary Concepts of Statistics*, Fall 2023
+-   STAT 3375Q-004D\
+    *Introduction to Mathematical Statistics*, Fall 2023
 
 # Awards and Scholarships
 + Mu Sigma Rho, 2021-present
@@ -9,8 +35,7 @@ title: "Honors"
 + Second-class Study Scholarship and Diathesis Developing Scholarship, 2006-2007
 + Third-class Study Scholarship and Diathesis Developing Scholarship, 2005-2006
 
-# Certificates
-+ Basic Programming Using SAS 9.4
+
 
 # Conference Presentations
 + “Cellulose nanocrystals containing lignin as additive and reinforcing agent in melt-spinning of

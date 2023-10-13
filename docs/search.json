@@ -2,16 +2,16 @@
   {
     "objectID": "award.html",
     "href": "award.html",
-    "title": "Honors",
+    "title": "Skills and Honors",
     "section": "",
-    "text": "Awards and Scholarships\n\nMu Sigma Rho, 2021-present\nUniversity Graduate Research Assistantship, 2013-2016\nSecond-class Study Scholarship, 2007-2008\nSecond-class Study Scholarship and Diathesis Developing Scholarship, 2006-2007\nThird-class Study Scholarship and Diathesis Developing Scholarship, 2005-2006\n\n\n\nCertificates\n\nBasic Programming Using SAS 9.4\n\n\n\nConference Presentations\n\n“Cellulose nanocrystals containing lignin as additive and reinforcing agent in melt-spinning of polypropylene” 251 th American Chemical Society National Meeting. San Diego, CA. March, 2016 (oral).\n“Lignin contained nanocellulose as additive and reinforcing agent in melt-spinning of polyethylene and polypropylene” IAB Meeting. Raleigh, NC. November, 2015 (oral and poster)\n“Nanocellulose as additive and reinforcing agent in melt-spinning of polyethylene and polypropylene_with pre-compounding” IAB Meeting. Raleigh, NC. May, 2015 (oral and poster)\n“Cellulose nanocrystals as additive and reinforcing agent in melt-spinning of polypropylene” 249 th American Chemical Society National Meeting. Denver, CO. March, 2015 (oral).\n“Nanocellulose as additive and reinforcing agent in melt-spinning of polyethylene and polypropylene_without pre-compounding” IAB Meeting. Raleigh, NC. November, 2014 (oral and poster)\n“Cellulose nanocrystals as additive and reinforcing agent in melt-spinning of polypropylene” Textile North America. Atlanta, GA. May, 2014 (poster).\n“Cellulose nanocrystals as additive and reinforcing agent in polyethylene and polypropylene films_compatibility improvement” IAB Meeting. Raleigh, NC. May, 2014 (oral and poster)\n“Thermoplastic matrix reinforced with lignocellulose nanofibrils (LCNF): effect of lignin content”. 247 th American Chemical Society National Meeting. Dallas, TX. April, 2014 (poster).\n“Cellulose nanocrystals as additive and reinforcing agent in polyethylene and polypropylene films” IAB Meeting. Raleigh, NC. November, 2013 (oral and poster)\n“Cellulose nanocrystals as additive and reinforcing agent in melt-spinning of polyethylene and polypropylene_ cellulose nanocrystals production and surface modification” IAB Meeting. Raleigh, NC. May, 2013 (oral and poster)\n“Effect of metal ions and wood pitch on paper properties”, 16 th International Symposium on Wood, Fiber and Pulping Chemistry (ISWFPC), Tianjin, China, 2011 (poster)"
+    "text": "Data processing tool: R, SAS, Julia, Python, JMP, SQL\nEditorial tool: LaTeX, Markdown, VS code, WordPress, OJS\nMicrosoft office package: Power BI, Word, Excel, Power, Outlook\nImage tool: Photoshop, ChenDraw\n\n\n\n\n\nSpectroscopy: UV-Vis, FT-IR\nChromatography: GPC, HPLC, GC-MS, IC\nThermal analysis: TGA, DSC, DMA\nMicroscopy: SEM, AFM, TEM, Optical Microscopy\nX-ray: WAXD, SAXS\nViscosity: Rheometer\nPaper and water properties analysis"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Xiaomin Lu",
     "section": "",
-    "text": "Hello, I’m Xiaomin Lu."
+    "text": "Hello!\nI’m Xiaomin Lu. Thank you for stopping by my website! I’m a third year PhD student studying Statistics at the University of Connecticut. My research interests primarily involve survival analysis, statistical computing and causal inference. Besides, I’m also interested in learning emerging technologies.\n\nEducation\n\nUniversity of Connecticut, August 2021-present\nPh.D. in Statistics\nNorth Carolina State University, May 2021\nM.S. in Statistics\nNorth Carolina State University, December 2016\nPh.D. in Forest Biomaterials\nÅbo Akademi University, June 2011\nM.S. in Chemical Engineering\n\n\n\nPosition and Employment\n\nUConn Health, September, 2023-present\nGraduate research assistant, Farmington, CT\nUniversity of Connecticut, August, 2023-present\nGraduate teaching assistant, Storrs, CT\nUniversity of Connecticut, August, 2022-August, 2023\nGraduate research assistant, Storrs, CT\nUniversity of Connecticut, August, 2021-May 2022\nGraduate research assistant, Storrs, CT\nNC State University, June, 2017-May 2021\nGraduate research assistant, Raleigh, NC\nSchaeffler/Luk USA LLC, September, 2016-May 2017\nChemist Intern, Wooster, OH\nNC State University, January, 2013-July 2016\nGraduate research assistant, Raleigh, NC\nAalto University, January, 2012-December, 2012\nResearcher, Espoo, Finland\nÅbo Akademi University, October 2010-November 2011\nGraduate research assistant, Turku, Finland\n\n\n\nCertificates\n\nBasic Programming Using SAS 9.4"
   },
   {
     "objectID": "index.html#computational-skills",
@@ -47,5 +47,19 @@
     "title": "Curriculum vitae",
     "section": "",
     "text": "Download current CV"
+  },
+  {
+    "objectID": "award.html#computational-skills",
+    "href": "award.html#computational-skills",
+    "title": "Skills and Honors",
+    "section": "",
+    "text": "Data processing tool: R, SAS, Julia, Python, JMP, SQL\nEditorial tool: LaTeX, Markdown, VS code, WordPress, OJS\nMicrosoft office package: Power BI, Word, Excel, Power, Outlook\nImage tool: Photoshop, ChenDraw"
+  },
+  {
+    "objectID": "award.html#analytical-techniques",
+    "href": "award.html#analytical-techniques",
+    "title": "Skills and Honors",
+    "section": "",
+    "text": "Spectroscopy: UV-Vis, FT-IR\nChromatography: GPC, HPLC, GC-MS, IC\nThermal analysis: TGA, DSC, DMA\nMicroscopy: SEM, AFM, TEM, Optical Microscopy\nX-ray: WAXD, SAXS\nViscosity: Rheometer\nPaper and water properties analysis"
   }
 ]

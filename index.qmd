@@ -6,13 +6,16 @@ about:
   image-shape: round
   image-width: 10em
   links:
+    - text: Linkedin
+      href: https://www.linkedin.com/in/xiaomin-lu-562146228/
     - text: Gitlab
       href: https://gitlab.com/PrincessMoon
     - text: Email
       href: mailto:xiaomin.lu@uconn.edu
 ---
 
-Hello, I'm Xiaomin Lu.
+**Hello!**\
+I'm Xiaomin Lu. Thank you for stopping by my website! I'm a third year PhD student studying Statistics at the University of Connecticut. My research interests primarily involve survival analysis, statistical computing and causal inference. Besides, I'm also interested in learning emerging technologies.
 
 # Education
 
@@ -46,28 +49,6 @@ Hello, I'm Xiaomin Lu.
 -   **Åbo Akademi University**, October 2010-November 2011\
     *Graduate research assistant*, Turku, Finland
 
-# Skills
+# Certificates
 
-## Computational skills
-
--   Data processing tool: R, SAS, Julia, Python, JMP, SQL
--   Editorial tool: LaTeX, Markdown, VS code, WordPress, OJS
--   Microsoft office package: Power BI, Word, Excel, Power, Outlook
--   Image tool: Photoshop, ChenDraw
-
-## Analytical techniques
-
--   Spectroscopy: UV-Vis, FT-IR
--   Chromatography: GPC, HPLC, GC-MS, IC
--   Thermal analysis: TGA, DSC, DMA
--   Microscopy: SEM, AFM, TEM, Optical Microscopy
--   X-ray: WAXD, SAXS
--   Viscosity: Rheometer
--   Paper and water properties analysis
-
-# Teaching
-
--   STAT 1100Q-021D\
-    *Elementary Concepts of Statistics*, Fall 2023
--   STAT 3375Q-004D\
-    *Introduction to Mathematical Statistics*, Fall 2023
+-   Basic Programming Using SAS 9.4
