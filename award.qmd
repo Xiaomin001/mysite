@@ -7,9 +7,10 @@ title: "Skills and Honors"
 ## Computational skills
 
 -   Data processing tool: R, SAS, Julia, Python, JMP, SQL
--   Editorial tool: LaTeX, Markdown, VS code, WordPress, OJS
+-   Editorial tool: GitHub, GitLab, LaTeX, Markdown, VS code, WordPress, OJS
 -   Microsoft office package: Power BI, Word, Excel, Power, Outlook
 -   Image tool: Photoshop, ChenDraw
+-   Others: Command-line environment
 
 ## Analytical techniques
 
@@ -22,13 +23,16 @@ title: "Skills and Honors"
 -   Paper and water properties analysis
 
 # Teaching
-
+ 
+-   STAT 2215Q-003\
+    *Introduction to Statistics II*, Spring 2024
 -   STAT 1100Q-021D\
     *Elementary Concepts of Statistics*, Fall 2023
 -   STAT 3375Q-004D\
     *Introduction to Mathematical Statistics*, Fall 2023
 
 # Awards and Scholarships
+
 + Mu Sigma Rho, 2021-present
 + University Graduate Research Assistantship, 2013-2016
 + Second-class Study Scholarship, 2007-2008
@@ -38,6 +42,11 @@ title: "Skills and Honors"
 
 
 # Conference Presentations
+
++ "Emergency Department and Hospital Use among Cognitively Vulnerable Medicare Advantage Enrollees" 
+Gerontological Society of America (GSA) 2024 Annual Scientific Meeting. 
+Seattle, WA. November 13-16, 2024 (oral and poster).
+
 + “Cellulose nanocrystals containing lignin as additive and reinforcing agent in melt-spinning of
 polypropylene” 251 th American Chemical Society National Meeting. San Diego, CA. March, 2016
 (oral).
