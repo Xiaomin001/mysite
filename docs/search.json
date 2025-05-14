@@ -4,7 +4,7 @@
     "href": "award.html",
     "title": "Skills and Honors",
     "section": "",
-    "text": "Data processing tool: R, SAS, Julia, Python, JMP, SQL\nEditorial tool: LaTeX, Markdown, VS code, WordPress, OJS\nMicrosoft office package: Power BI, Word, Excel, Power, Outlook\nImage tool: Photoshop, ChenDraw\n\n\n\n\n\nSpectroscopy: UV-Vis, FT-IR\nChromatography: GPC, HPLC, GC-MS, IC\nThermal analysis: TGA, DSC, DMA\nMicroscopy: SEM, AFM, TEM, Optical Microscopy\nX-ray: WAXD, SAXS\nViscosity: Rheometer\nPaper and water properties analysis"
+    "text": "Data processing tool: R, SAS, Julia, Python, JMP, SQL\nEditorial tool: GitHub, GitLab, LaTeX, Markdown, VS code, WordPress, OJS\nMicrosoft office package: Power BI, Word, Excel, Power, Outlook\nImage tool: Photoshop, ChenDraw\nOthers: Command-line environment\n\n\n\n\n\nSpectroscopy: UV-Vis, FT-IR\nChromatography: GPC, HPLC, GC-MS, IC\nThermal analysis: TGA, DSC, DMA\nMicroscopy: SEM, AFM, TEM, Optical Microscopy\nX-ray: WAXD, SAXS\nViscosity: Rheometer\nPaper and water properties analysis"
   },
   {
     "objectID": "index.html",
@@ -53,7 +53,7 @@
     "href": "award.html#computational-skills",
     "title": "Skills and Honors",
     "section": "",
-    "text": "Data processing tool: R, SAS, Julia, Python, JMP, SQL\nEditorial tool: LaTeX, Markdown, VS code, WordPress, OJS\nMicrosoft office package: Power BI, Word, Excel, Power, Outlook\nImage tool: Photoshop, ChenDraw"
+    "text": "Data processing tool: R, SAS, Julia, Python, JMP, SQL\nEditorial tool: GitHub, GitLab, LaTeX, Markdown, VS code, WordPress, OJS\nMicrosoft office package: Power BI, Word, Excel, Power, Outlook\nImage tool: Photoshop, ChenDraw\nOthers: Command-line environment"
   },
   {
     "objectID": "award.html#analytical-techniques",
